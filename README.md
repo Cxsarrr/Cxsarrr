@@ -1,8 +1,8 @@
-## Hi, I’m Cesar Bolivar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+## Hola, soy Cesar Bolivar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 [![](https://visitcount.itsvg.in/api?id=Cxsarrr&icon=5&color=1)](https://visitcount.itsvg.in)
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+Developer;I+love+Technology;Always+Learning+and+Improving" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+my+perfil+de+GitHub!;Soy+Desarrollador+FullStack;Amo+la+tecnología;Siempre+aprendiendo+y+mejorando" />
   </a>
 </p>
 
@@ -13,14 +13,14 @@
 </p>
 
 <p>
-I am a passionate Full-Stack Developer with experience in building dynamic, efficient, and user-friendly applications. Always eager to learn new technologies, improve my skills, and create impactful digital solutions that enhance user experience 🚀.
+Soy un desarrollador de software integral apasionado por la creación de aplicaciones dinámicas, eficientes y fáciles de usar. Siempre estoy dispuesto a aprender nuevas tecnologías, perfeccionar mis habilidades y desarrollar soluciones digitales de alto impacto que mejoren la experiencia del usuario 🚀.
 </p>
 
-## En lo que estoy trabajando / My Focus
-* Desarrollando aplicaciones web full-stack robustas combinando **Django**, **Next.js**, **React** y **TypeScript**.
-* Diseñando arquitecturas de bases de datos eficientes y seguras utilizando ORMs como **Prisma** junto a **PostgreSQL** y **MySQL**.
+## En lo que estoy trabajando
+* Creación de plataformas web completas y escalables utilizando **Django**, **Next.js**, **React** y **TypeScript**.
+* Diseño y optimización de bases de datos relacionales mediante herramientas como **Prisma**, **PostgreSQL** y **MySQL**.
 
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tecnologías y Herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,26 +28,26 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
   </a>
 </p>
 
-## Proyectos Destacados / Featured Projects
+## Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Portafolio Personal</h3>
-      <p>Mi carta de presentación digital. Diseñada para exponer mi trayectoria como desarrollador Full-Stack, desplegar mis proyectos y conectar de manera directa con reclutadores e interesados.</p>
-      <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS</p>
+      <h3>Portafolio Web Personal</h3>
+      <p>Espacio digital interactivo diseñado para presentar mi perfil profesional, trayectoria y proyectos de software. Cuenta con un sistema bilingüe completo y animaciones fluidas.</p>
+      <p><b>Tecnologías:</b> React 19, Vite, TypeScript, Tailwind CSS 4, Framer Motion</p>
       <a href="https://cesarbolivar.site/" target="_blank">🔗 Visitar Sitio</a>
     </td>
     <td width="50%" valign="top">
       <h3>NetBio</h3>
-      <p>Plataforma estilo Linktree profesional con descarga de tarjeta de contacto (vCard), generador de código QR, analíticas en tiempo real y mini-CRM integrado para la captura de leads.</p>
-      <p><b>Tech Stack:</b> React, Next.js, Tailwind CSS, Prisma, PostgreSQL</p>
+      <p>Plataforma exclusiva de enlaces web que permite centralizar redes sociales, descargar tarjetas de contacto digitales (vCard), generar códigos QR y capturar clientes potenciales de forma directa.</p>
+      <p><b>Tecnologías:</b> Next.js 16, TypeScript, Serverless Postgres, Prisma, Tailwind CSS 4</p>
       <a href="https://netbio.site/" target="_blank">🔗 Visitar Sitio</a>
     </td>
   </tr>
 </table>
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## Estadísticas de GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
   
 ![](https://github-readme-stats.vercel.app/api?username=Cxsarrr&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cxsarrr&theme=algolia&hide_border=false)
@@ -55,13 +55,13 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 
 <br/>
 
-## GitHub Trophies 🏆
+## Trofeos de GitHub 🏆
 ![](https://github-profile-trophy.vercel.app/?username=Cxsarrr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## Code Aesthetic 💻 
+## Estética de Código 💻 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB4YTVqaDZsaDBpN2lobXV6ZDQ0YWh5bmh3MjEyYjBybW1mY2tuezZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" 
-       alt="Hello World pixel art aesthetic" 
+       alt="Estética de arte pixelado Hola Mundo" 
        style="border-radius:15px;" 
        width="40%"/>
 </p>
