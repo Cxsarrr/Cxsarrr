@@ -17,14 +17,14 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 </p>
 
 ## En lo que estoy trabajando / My Focus
-* Desarrollando aplicaciones web full-stack escalables combinando **Django**, **TypeScript** y **React**.
-* Mejorando el rendimiento y optimización de bases de datos relacionales con **PostgreSQL** y **MySQL**.
+* Desarrollando aplicaciones web full-stack robustas combinando **Django**, **Next.js**, **React** y **TypeScript**.
+* Diseñando arquitecturas de bases de datos eficientes y seguras utilizando ORMs como **Prisma** junto a **PostgreSQL** y **MySQL**.
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,tailwind,postgres,mysql,git,github,postman,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nextjs,tailwind,postgres,mysql,prisma,git,github,postman,linux,vscode&theme=dark" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
     </td>
     <td width="50%" valign="top">
       <h3>NetBio</h3>
-      <p>Una plataforma integrada de "Links en Bio" optimizada para profesionales de TI. Centraliza redes sociales, portafolios y recursos en una sola landing page fluida y estilizada.</p>
-      <p><b>Tech Stack:</b> Django, React, TypeScript, MySQL</p>
+      <p>Plataforma estilo Linktree profesional con descarga de tarjeta de contacto (vCard), generador de código QR, analíticas en tiempo real y mini-CRM integrado para la captura de leads.</p>
+      <p><b>Tech Stack:</b> React, Next.js, Tailwind CSS, Prisma, PostgreSQL</p>
       <a href="https://netbio.site/" target="_blank">🔗 Visitar Sitio</a>
     </td>
   </tr>
