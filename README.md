@@ -20,7 +20,7 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nextjs,tailwind,postgres,mysql,anthravity,anthropic,git,github,postman,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nextjs,tailwind,postgres,mysql,anthropic,git,github,postman,linux,vscode&theme=dark" />
   </a>
 </p>
 
