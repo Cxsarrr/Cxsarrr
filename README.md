@@ -13,6 +13,9 @@
    <a href="mailto:cluisbolivarb@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+   <a href="https://netbio.site/cesarbolivar" target="_blank">
+    <img alt="NetBio" src="https://img.shields.io/badge/NetBio-1A2B4C?style=for-the-badge&logo=opsgenie&logoColor=4A90E2">
+  </a>
    <a href="https://discord.gg/9xbMzb4d" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
@@ -46,7 +49,7 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 
 ## Code Aesthetic 💻 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB4YTVqaDZsaDBpN2lobXV6ZDQ0YWh5bmh3MjEyYjBybW1mY2tueiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB4YTVqaDZsaDBpN2lobXV6ZDQ0YWh5bmh3MjEyYjBybW1mY2tuezZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" 
        alt="Hello World pixel art aesthetic" 
        style="border-radius:15px;" 
        width="40%"/>
