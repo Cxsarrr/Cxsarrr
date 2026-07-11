@@ -20,7 +20,7 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nextjs,tailwind,postgres,mysql,docker,git,github,postman,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nextjs,tailwind,postgres,mysql,anthropic,git,github,postman,linux,vscode&theme=dark" />
   </a>
 </p>
 
@@ -34,6 +34,13 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 
 ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=Cxsarrr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+## Connect with me 🌐
+<p align="center">
+  <a href="https://netbio.site/cesarbolivar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,discord,gmail&theme=dark" />
+  </a>
+</p>
 
 ## Code Aesthetic 💻 
 <p align="center">
