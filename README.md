@@ -7,20 +7,8 @@
 </p>
 
 <p align ="center">
-   <a href="https://www.linkedin.com/in/cesar-bolivar-891a01335/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-   <a href="mailto:cluisbolivarb@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
    <a href="https://netbio.site/cesarbolivar" target="_blank">
     <img alt="NetBio" src="https://img.shields.io/badge/NetBio-1A2B4C?style=for-the-badge&logo=opsgenie&logoColor=4A90E2">
-  </a>
-   <a href="https://discord.gg/9xbMzb4d" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-   <a href="https://wa.me/573003673646" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
