@@ -33,16 +33,16 @@ I am a passionate Full-Stack Developer with experience in building dynamic, effi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Mi Portafolio Personal</h3>
-      <p>Espacio web personalizado para mostrar mi trayectoria, proyectos recientes y habilidades técnicas como Desarrollador Full-Stack.</p>
-      <p><b>Tech Stack:</b> React, TypeScript, Tailwind</p>
-      <a href="https://github.com/Cxsarrr" target="_blank">🔗 Ver Repositorio</a>
+      <h3>Portafolio Personal</h3>
+      <p>Mi carta de presentación digital. Diseñada para exponer mi trayectoria como desarrollador Full-Stack, desplegar mis proyectos y conectar de manera directa con reclutadores e interesados.</p>
+      <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS</p>
+      <a href="https://cesarbolivar.site/" target="_blank">🔗 Visitar Sitio</a>
     </td>
     <td width="50%" valign="top">
       <h3>NetBio</h3>
-      <p>Plataforma para centralizar enlaces, perfiles e información profesional de manera estética y eficiente en un solo lugar.</p>
-      <p><b>Tech Stack:</b> Django, React, MySQL</p>
-      <a href="https://github.com/Cxsarrr" target="_blank">🔗 Ver Repositorio</a>
+      <p>Una plataforma integrada de "Links en Bio" optimizada para profesionales de TI. Centraliza redes sociales, portafolios y recursos en una sola landing page fluida y estilizada.</p>
+      <p><b>Tech Stack:</b> Django, React, TypeScript, MySQL</p>
+      <a href="https://netbio.site/" target="_blank">🔗 Visitar Sitio</a>
     </td>
   </tr>
 </table>
