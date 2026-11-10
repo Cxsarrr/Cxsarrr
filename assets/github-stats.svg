@@ -31,7 +31,7 @@
 <g class="fade" style="animation-delay:.1s">
   <rect x="40" y="120" width="330" height="200" rx="20" fill="#111B2A" stroke="#22364F" stroke-width="1.5"/>
   <text class="s" x="66" y="162" font-size="15" fill="#8C9BB0">Contribuciones totales</text>
-  <text class="s" x="64" y="254" font-size="76" font-weight="800" fill="#F5F8FC">44</text>
+  <text class="s" x="64" y="254" font-size="76" font-weight="800" fill="#F5F8FC">46</text>
   <text class="s" x="66" y="294" font-size="14" font-weight="600" fill="#ABCDEF">9 nov 2025 – hoy</text>
 </g>
 
@@ -59,14 +59,14 @@
   <rect x="40" y="342" width="550" height="258" rx="20" fill="#111B2A" stroke="#22364F" stroke-width="1.5"/>
   <text class="s" x="66" y="384" font-size="17" font-weight="700" fill="#F5F8FC">Actividad por día de la semana</text>
   <circle cx="72" cy="421" r="6" fill="#ABCDEF"/>
-<text class="s" x="88" y="426" font-size="15" fill="#F5F8FC">Viernes</text>
-<text class="s" x="336" y="426" font-size="15" fill="#8C9BB0" text-anchor="end">34%</text>
+<text class="s" x="88" y="426" font-size="15" fill="#F5F8FC">Martes</text>
+<text class="s" x="336" y="426" font-size="15" fill="#8C9BB0" text-anchor="end">35%</text>
 <circle cx="72" cy="455" r="6" fill="#4A90E2"/>
-<text class="s" x="88" y="460" font-size="15" fill="#F5F8FC">Martes</text>
-<text class="s" x="336" y="460" font-size="15" fill="#8C9BB0" text-anchor="end">32%</text>
+<text class="s" x="88" y="460" font-size="15" fill="#F5F8FC">Viernes</text>
+<text class="s" x="336" y="460" font-size="15" fill="#8C9BB0" text-anchor="end">33%</text>
 <circle cx="72" cy="489" r="6" fill="#6FA8EA"/>
 <text class="s" x="88" y="494" font-size="15" fill="#F5F8FC">Jueves</text>
-<text class="s" x="336" y="494" font-size="15" fill="#8C9BB0" text-anchor="end">25%</text>
+<text class="s" x="336" y="494" font-size="15" fill="#8C9BB0" text-anchor="end">24%</text>
 <circle cx="72" cy="523" r="6" fill="#2F5A8A"/>
 <text class="s" x="88" y="528" font-size="15" fill="#F5F8FC">Lunes</text>
 <text class="s" x="336" y="528" font-size="15" fill="#8C9BB0" text-anchor="end">7%</text>
@@ -74,13 +74,13 @@
 <text class="s" x="88" y="562" font-size="15" fill="#F5F8FC">Otros</text>
 <text class="s" x="336" y="562" font-size="15" fill="#8C9BB0" text-anchor="end">2%</text>
   <circle cx="468" cy="480" r="64" fill="none" stroke="#152235" stroke-width="22"/>
-<circle cx="468" cy="480" r="64" fill="none" stroke="#ABCDEF" stroke-width="22" stroke-dasharray="133.09 402.12" stroke-dashoffset="-0.00" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.30s"/>
-<circle cx="468" cy="480" r="64" fill="none" stroke="#4A90E2" stroke-width="22" stroke-dasharray="123.95 402.12" stroke-dashoffset="-137.09" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.42s"/>
-<circle cx="468" cy="480" r="64" fill="none" stroke="#6FA8EA" stroke-width="22" stroke-dasharray="96.53 402.12" stroke-dashoffset="-265.04" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.54s"/>
-<circle cx="468" cy="480" r="64" fill="none" stroke="#2F5A8A" stroke-width="22" stroke-dasharray="23.42 402.12" stroke-dashoffset="-365.57" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.66s"/>
-<circle cx="468" cy="480" r="64" fill="none" stroke="#3A4D66" stroke-width="22" stroke-dasharray="5.14 402.12" stroke-dashoffset="-392.98" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.78s"/>
-<text class="s" x="468" y="488" font-size="30" font-weight="700" fill="#F5F8FC" text-anchor="middle">34%</text>
-<text class="s" x="468" y="510" font-size="13" fill="#8C9BB0" text-anchor="middle">Viernes</text>
+<circle cx="468" cy="480" r="64" fill="none" stroke="#ABCDEF" stroke-width="22" stroke-dasharray="135.87 402.12" stroke-dashoffset="-0.00" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.30s"/>
+<circle cx="468" cy="480" r="64" fill="none" stroke="#4A90E2" stroke-width="22" stroke-dasharray="127.13 402.12" stroke-dashoffset="-139.87" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.42s"/>
+<circle cx="468" cy="480" r="64" fill="none" stroke="#6FA8EA" stroke-width="22" stroke-dasharray="92.16 402.12" stroke-dashoffset="-271.00" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.54s"/>
+<circle cx="468" cy="480" r="64" fill="none" stroke="#2F5A8A" stroke-width="22" stroke-dasharray="22.23 402.12" stroke-dashoffset="-367.16" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.66s"/>
+<circle cx="468" cy="480" r="64" fill="none" stroke="#3A4D66" stroke-width="22" stroke-dasharray="4.74 402.12" stroke-dashoffset="-393.38" transform="rotate(-90 468 480)" class="fade" style="animation-delay:0.78s"/>
+<text class="s" x="468" y="488" font-size="30" font-weight="700" fill="#F5F8FC" text-anchor="middle">35%</text>
+<text class="s" x="468" y="510" font-size="13" fill="#8C9BB0" text-anchor="middle">Martes</text>
 </g>
 
 <g class="fade" style="animation-delay:.7s">
@@ -88,18 +88,18 @@
   <text class="s" x="636" y="384" font-size="17" font-weight="700" fill="#F5F8FC">Meses más activos</text>
   <circle cx="642" cy="421" r="6" fill="#ABCDEF"/>
 <text class="s" x="658" y="426" font-size="15" fill="#F5F8FC">Octubre 2026</text>
-<text class="s" x="906" y="426" font-size="15" fill="#8C9BB0" text-anchor="end">43%</text>
+<text class="s" x="906" y="426" font-size="15" fill="#8C9BB0" text-anchor="end">41%</text>
 <circle cx="642" cy="455" r="6" fill="#4A90E2"/>
 <text class="s" x="658" y="460" font-size="15" fill="#F5F8FC">Julio 2026</text>
-<text class="s" x="906" y="460" font-size="15" fill="#8C9BB0" text-anchor="end">34%</text>
+<text class="s" x="906" y="460" font-size="15" fill="#8C9BB0" text-anchor="end">33%</text>
 <circle cx="642" cy="489" r="6" fill="#6FA8EA"/>
 <text class="s" x="658" y="494" font-size="15" fill="#F5F8FC">Noviembre 2026</text>
-<text class="s" x="906" y="494" font-size="15" fill="#8C9BB0" text-anchor="end">23%</text>
+<text class="s" x="906" y="494" font-size="15" fill="#8C9BB0" text-anchor="end">26%</text>
   <circle cx="1038" cy="480" r="64" fill="none" stroke="#152235" stroke-width="22"/>
-<circle cx="1038" cy="480" r="64" fill="none" stroke="#ABCDEF" stroke-width="22" stroke-dasharray="169.64 402.12" stroke-dashoffset="-0.00" transform="rotate(-90 1038 480)" class="fade" style="animation-delay:0.80s"/>
-<circle cx="1038" cy="480" r="64" fill="none" stroke="#4A90E2" stroke-width="22" stroke-dasharray="133.09 402.12" stroke-dashoffset="-173.64" transform="rotate(-90 1038 480)" class="fade" style="animation-delay:0.92s"/>
-<circle cx="1038" cy="480" r="64" fill="none" stroke="#6FA8EA" stroke-width="22" stroke-dasharray="87.39 402.12" stroke-dashoffset="-310.73" transform="rotate(-90 1038 480)" class="fade" style="animation-delay:1.04s"/>
-<text class="s" x="1038" y="488" font-size="30" font-weight="700" fill="#F5F8FC" text-anchor="middle">43%</text>
+<circle cx="1038" cy="480" r="64" fill="none" stroke="#ABCDEF" stroke-width="22" stroke-dasharray="162.09 402.12" stroke-dashoffset="-0.00" transform="rotate(-90 1038 480)" class="fade" style="animation-delay:0.80s"/>
+<circle cx="1038" cy="480" r="64" fill="none" stroke="#4A90E2" stroke-width="22" stroke-dasharray="127.13 402.12" stroke-dashoffset="-166.09" transform="rotate(-90 1038 480)" class="fade" style="animation-delay:0.92s"/>
+<circle cx="1038" cy="480" r="64" fill="none" stroke="#6FA8EA" stroke-width="22" stroke-dasharray="100.90 402.12" stroke-dashoffset="-297.22" transform="rotate(-90 1038 480)" class="fade" style="animation-delay:1.04s"/>
+<text class="s" x="1038" y="488" font-size="30" font-weight="700" fill="#F5F8FC" text-anchor="middle">41%</text>
 <text class="s" x="1038" y="510" font-size="13" fill="#8C9BB0" text-anchor="middle">Octubre</text>
 </g>
 </svg>
