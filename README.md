@@ -1,67 +1,102 @@
-## Hola, soy Cesar Bolivar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-[![](https://visitcount.itsvg.in/api?id=Cxsarrr&icon=5&color=1)](https://visitcount.itsvg.in)
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+my+perfil+de+GitHub!;Soy+Desarrollador+FullStack;Amo+la+tecnología;Siempre+aprendiendo+y+mejorando" />
-  </a>
-</p>
-
-<p align ="center">
-   <a href="https://netbio.site/cesarbolivar" target="_blank">
-    <img alt="NetBio" src="https://img.shields.io/badge/NetBio-1A2B4C?style=for-the-badge&logo=opsgenie&logoColor=4A90E2">
-  </a>
-</p>
-
-<p>
-Soy un desarrollador de software integral apasionado por la creación de aplicaciones dinámicas, eficientes y fáciles de usar. Siempre estoy dispuesto a aprender nuevas tecnologías, perfeccionar mis habilidades y desarrollar soluciones digitales de alto impacto que mejoren la experiencia del usuario 🚀.
-</p>
-
-## En lo que estoy trabajando
-* Creación de plataformas web completas y escalables utilizando **Django**, **Next.js**, **React** y **TypeScript**.
-* Diseño y optimización de bases de datos relacionales mediante herramientas como **Prisma**, **PostgreSQL** y **MySQL**.
-
-## Tecnologías y Herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nextjs,tailwind,postgres,mysql,prisma,git,github,postman,linux,vscode&theme=dark" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/header.svg?v=2"
+    alt="Cesar Bolivar Header" width="100%"
+  />
 </p>
-
-## Proyectos Destacados
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Portafolio Web Personal</h3>
-      <p>Espacio digital interactivo diseñado para presentar mi perfil profesional, trayectoria y proyectos de software. Cuenta con un sistema bilingüe completo y animaciones fluidas.</p>
-      <p><b>Tecnologías:</b> React 19, Vite, TypeScript, Tailwind CSS 4, Framer Motion</p>
-      <a href="https://cesarbolivar.site/" target="_blank">🔗 Visitar Sitio</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>NetBio</h3>
-      <p>Plataforma exclusiva de enlaces web que permite centralizar redes sociales, descargar tarjetas de contacto digitales (vCard), generar códigos QR y capturar clientes potenciales de forma directa.</p>
-      <p><b>Tecnologías:</b> Next.js 16, TypeScript, Serverless Postgres, Prisma, Tailwind CSS 4</p>
-      <a href="https://netbio.site/" target="_blank">🔗 Visitar Sitio</a>
-    </td>
-  </tr>
+<tr>
+<td width="70%" valign="top">
+
+Soy un **Desarrollador Full Stack** apasionado por crear aplicaciones **dinámicas, eficientes y fáciles de usar** — desde la interfaz hasta la base de datos.
+
+Me enfoco en construir plataformas **completas y escalables**, con buena **arquitectura** y una gran **experiencia de usuario**.
+
+Siempre estoy aprendiendo nuevas tecnologías y perfeccionando mis habilidades para crear soluciones digitales de **alto impacto**. 🚀
+
+</td>
+<td align="center" width="30%" valign="middle">
+
+[![Portafolio](https://img.shields.io/badge/portafolio-1F3A63?style=for-the-badge&logo=vercel&logoColor=F5F8FC)](https://cesarbolivar.site/)<br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-2F5A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y1RjhGQyI%2BPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTMiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNC41IiByPSIyLjQiLz48cGF0aCBkPSJNOSA5aDMuOHYxLjljLjYtMS4xIDItMi4yIDQuMS0yLjIgNC4yIDAgNSAyLjcgNSA2LjNWMjJoLTR2LTYuMWMwLTEuNSAwLTMuNC0yLjEtMy40cy0yLjQgMS42LTIuNCAzLjNWMjJIOXoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/cesar-bolivar-891a01335/)<br/>
+[![NetBio](https://img.shields.io/badge/netbio-4A90E2?style=for-the-badge&logo=opsgenie&logoColor=F5F8FC)](https://netbio.site/cesarbolivar)<br/>
+[![Email](https://img.shields.io/badge/email-ABCDEF?style=for-the-badge&logo=gmail&logoColor=0B121C)](mailto:cluisbolivarb@gmail.com)
+
+</td>
+</tr>
 </table>
 
-## Estadísticas de GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-  
-![](https://github-readme-stats.vercel.app/api?username=Cxsarrr&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cxsarrr&theme=algolia&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxsarrr&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+<tr>
+<td align="center" width="35%">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="205" alt="coding gif"/>
+</td>
+<td width="65%" valign="top">
+
+**En lo que estoy trabajando ✦**
+
+🌐 **Plataformas web completas y escalables**  
+Construyendo aplicaciones de punta a punta con **Django**, **Next.js**, **React** y **TypeScript**.
+
+🗄️ **Bases de datos relacionales**  
+Diseño y optimización de bases de datos con **Prisma**, **PostgreSQL** y **MySQL**.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="42%" valign="top">
+
+**✦ tech stack**
+
+<sub>**Frontend**</sub><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite" /><br/>
+
+<sub>**Backend & Base de datos**</sub><br/>
+<img src="https://skillicons.dev/icons?i=py,django,prisma" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
+
+<sub>**Herramientas**</sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+
+</td>
+<td width="58%" valign="top">
+
+**✦ proyectos**
+
+💼 **[Portafolio Web Personal](https://cesarbolivar.site/)**
+Perfil profesional interactivo, bilingüe y con animaciones fluidas.
+`React 19` `Vite` `TypeScript` `Tailwind CSS 4` `Framer Motion`
+[![Live](https://img.shields.io/badge/live-4A90E2?style=flat-square&logo=vercel&logoColor=F5F8FC)](https://cesarbolivar.site/)
+
+---
+
+🔗 **[NetBio](https://netbio.site/)**
+Enlaces centralizados, tarjetas vCard, códigos QR y captura de clientes potenciales.
+`Next.js 16` `TypeScript` `Serverless Postgres` `Prisma` `Tailwind CSS 4`
+[![Live](https://img.shields.io/badge/live-ABCDEF?style=flat-square&logo=vercel&logoColor=0B121C)](https://netbio.site/)
+
+</td>
+</tr>
+</table>
+
+<h3 align="center"><code>// github stats</code></h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/github-stats.svg?v=2" width="100%" alt="GitHub stats" />
+</p>
+
+<h3 align="center"><code>// spent my time</code></h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/spent-my-time.svg?v=2" width="100%" alt="Spent my time" />
+</p>
 
 <br/>
 
-## Trofeos de GitHub 🏆
-![](https://github-profile-trophy.vercel.app/?username=Cxsarrr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## Estética de Código 💻 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB4YTVqaDZsaDBpN2lobXV6ZDQ0YWh5bmh3MjEyYjBybW1mY2tuezZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" 
-       alt="Estética de arte pixelado Hola Mundo" 
-       style="border-radius:15px;" 
-       width="40%"/>
+  <sub>💙 gracias por pasar — construyamos algo juntos — <a href="mailto:cluisbolivarb@gmail.com">hablemos</a></sub>
 </p>
