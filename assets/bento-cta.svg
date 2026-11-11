@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="300" viewBox="0 0 1600 300">
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .in{animation:in .8s cubic-bezier(.2,.8,.2,1) backwards}
+  @keyframes in{from{opacity:0;transform:translateY(14px)}}
+  .pulse{animation:pulse 2.2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+  .drift{animation:drift 14s ease-in-out infinite alternate}
+  .drift2{animation:drift 18s ease-in-out infinite alternate-reverse}
+  @keyframes drift{from{transform:translate(-40px,-20px)}to{transform:translate(40px,30px)}}
+  
+</style>
+<defs>
+  <radialGradient id="aB"><stop offset="0" stop-color="#4A90E2" stop-opacity=".55"/><stop offset="1" stop-color="#4A90E2" stop-opacity="0"/></radialGradient>
+  <radialGradient id="aS"><stop offset="0" stop-color="#38BDF8" stop-opacity=".40"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="aV"><stop offset="0" stop-color="#7C83FD" stop-opacity=".45"/><stop offset="1" stop-color="#7C83FD" stop-opacity="0"/></radialGradient>
+  <linearGradient id="gName" x1="0" x2="1"><stop offset="0" stop-color="#F3F7FD"/><stop offset=".55" stop-color="#ABCDEF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+  <linearGradient id="gEdge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A3E62"/><stop offset=".5" stop-color="#1C2A44"/><stop offset="1" stop-color="#243656"/></linearGradient>
+  <linearGradient id="gBtn" x1="0" x2="1"><stop offset="0" stop-color="#4A90E2"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+  <linearGradient id="gRing" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#7C83FD"/></linearGradient>
+</defs>
+<rect width="1600" height="300" rx="34" fill="#070B14"/>
+<clipPath id="cA"><rect x="24" y="24" width="1552" height="252" rx="28"/></clipPath><g class="in" style="animation-delay:0.00s"><rect x="24" y="24" width="1552" height="252" rx="28" fill="#0C1322"/><g clip-path="url(#cA)"><circle class="drift" cx="324" cy="284" r="420" fill="url(#aB)"/><circle class="drift2" cx="1274" cy="24" r="420" fill="url(#aV)"/><circle class="drift" cx="804" cy="324" r="300" fill="url(#aS)"/></g><rect x="24.75" y="24.75" width="1550.5" height="250.5" rx="27.5" fill="none" stroke="url(#gEdge)" stroke-width="1.5"/>
+  <text class="m" x="72" y="92" font-size="15" letter-spacing="3" fill="#8593AB">¿TIENES UNA IDEA?</text>
+  <text x="68" y="172" font-size="64" font-weight="800" letter-spacing="-2" fill="url(#gName)">Construyamos algo juntos.</text>
+  <text x="72" y="222" font-size="22" fill="#8593AB">Escríbeme y conversemos sobre tu proyecto.</text>
+  <rect x="1236" y="118" width="292" height="68" rx="34" fill="url(#gBtn)"/>
+  <text x="1382" y="161" font-size="23" font-weight="800" fill="#070B14" text-anchor="middle">Hablemos →</text>
+</g>
+</svg>

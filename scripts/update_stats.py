@@ -460,9 +460,8 @@ def main():
     os.makedirs("assets", exist_ok=True)
     import xml.etree.ElementTree as ET
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    import cards
-    files = {"github-stats.svg": build_stats(s), "spent-my-time.svg": build_spent(s)}
-    files.update(cards.build_all())
+    import bento
+    files = bento.build_all(s)
     for name, svg in files.items():
         ET.fromstring(svg)  # valida XML
         with open(os.path.join("assets", name), "w", encoding="utf-8") as f:
