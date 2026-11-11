@@ -1,4 +1,4 @@
-<a href="https://cesarbolivar.site/"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-hero.svg?v=4" width="100%" alt="Cesar Bolivar — Desarrollador Full Stack · Abierto a oportunidades" /></a>
+<a href="https://cesarbolivar.site/"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-hero.svg?v=5" width="100%" alt="Cesar Bolivar — Desarrollador Full Stack · Abierto a oportunidades" /></a>
 
 <p align="center">
   <a href="https://cesarbolivar.site/"><img src="https://img.shields.io/badge/portafolio-0C1322?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portafolio" /></a>
@@ -9,8 +9,8 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://netbio.site/"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-netbio.svg?v=4" width="100%" alt="NetBio" /></a></td>
-<td width="50%"><a href="https://cesarbolivar.site/"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-portfolio.svg?v=4" width="100%" alt="Portafolio Web" /></a></td>
+<td width="50%"><a href="https://netbio.site/"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-netbio.svg?v=5" width="100%" alt="NetBio" /></a></td>
+<td width="50%"><a href="https://cesarbolivar.site/"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-portfolio.svg?v=5" width="100%" alt="Portafolio Web" /></a></td>
 </tr>
 </table>
 
@@ -18,10 +18,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,py,django,prisma,postgres,mysql,git,github,postman,linux,vscode&perline=16&theme=dark" width="100%" alt="Stack" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-activity.svg?v=4" width="100%" alt="Actividad en GitHub" />
+<img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-activity.svg?v=5" width="100%" alt="Actividad en GitHub" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/output/snake.svg" width="100%" alt="Serpiente de contribuciones" />
 </p>
 
-<a href="mailto:cluisbolivarb@gmail.com"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-cta.svg?v=4" width="100%" alt="Construyamos algo juntos — Hablemos" /></a>
+<a href="mailto:cluisbolivarb@gmail.com"><img src="https://raw.githubusercontent.com/Cxsarrr/Cxsarrr/main/assets/bento-cta.svg?v=5" width="100%" alt="Construyamos algo juntos — Hablemos" /></a>
