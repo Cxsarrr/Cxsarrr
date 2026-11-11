@@ -101,7 +101,9 @@ def build_hero(s):
         for j in range(-5, 6):
             if i * i + j * j <= 26:
                 hl = (i, j) in ((1, 1), (0, 1), (1, 2))
-                dots.append(f'<circle cx="{1140 + i*14}" cy="{404 + j*14}" r="{4 if hl else 2.6}" fill="{SKY if hl else "#2A3B5A"}"{" class=\"pulse\"" if hl else ""}/>')
+                cls = ' class="pulse"' if hl else ""
+                col = SKY if hl else "#2A3B5A"
+                dots.append(f'<circle cx="{1140 + i*14}" cy="{404 + j*14}" r="{4 if hl else 2.6}" fill="{col}"{cls}/>')
     circ = 2 * 3.14159 * 48
     frac = min(s["cur"] / max(s["best"], 1), 1) if s["cur"] else 0.04
     return head(W, H, " ".join(css)) + f"""
@@ -243,6 +245,8 @@ def build_activity(s):
         bars.append(f'<rect x="{bx}" y="{698 - 150}" width="40" height="150" rx="10" fill="{LEVELS[0]}"/>'
                     f'<rect class="grow" x="{bx}" y="{698 - h:.0f}" width="40" height="{max(h, 6):.0f}" rx="10" fill="{"url(#gBtn)" if top else LEVELS[2]}" style="animation-delay:{.5 + i*.08:.2f}s"/>'
                     f'<text x="{bx + 20}" y="728" font-size="15" fill="{TEXT if top else MUTED}" text-anchor="middle">{DIAS[i][:2]}</text>')
+    top_day = DIAS[s["by_wd"].index(mx)]
+    top_day = top_day if top_day.endswith("s") else top_day + "s"
     css = ".grow{animation:grow 1s cubic-bezier(.2,.8,.2,1) backwards;transform-box:fill-box;transform-origin:bottom} @keyframes grow{from{transform:scaleY(0)}}"
     scan = (f'<g clip-path="url(#hm)"><rect x="{x0-120}" y="{y0-6}" width="120" height="{7*step+6}" fill="url(#scan)">'
             f'<animate attributeName="x" values="{x0-120};{x0+gw}" dur="7s" repeatCount="indefinite"/></rect></g>')
@@ -282,7 +286,7 @@ def build_activity(s):
 
 {tile(724, 424, 852, 312, .45, aurora=[("aV", 820, 300, 280)], cid="hD")}
   {label(764, 480, "¿CUÁNDO PROGRAMO MÁS?")}
-  <text x="764" y="560" font-size="44" font-weight="800" fill="{TEXT}">{(lambda d: d if d.endswith("s") else d + "s")(DIAS[s['by_wd'].index(mx)])}</text>
+  <text x="764" y="560" font-size="44" font-weight="800" fill="{TEXT}">{top_day}</text>
   <text x="764" y="600" font-size="19" fill="{MUTED}">es mi día más productivo:</text>
   <text x="764" y="628" font-size="19" fill="{MUTED}"><tspan fill="{TEXT}" font-weight="700">{round(mx * 100 / (sum(s['by_wd']) or 1))}%</tspan> de mis contribuciones.</text>
   {''.join(bars)}
