@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560">
+<style>
+  .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .fade{animation:fade .9s ease backwards}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes rv0{from{transform:translateX(0)}to{transform:translateX(150px)}}.rv0{animation:rv0 0.32s steps(9) 0.40s backwards}
+@keyframes rv1{from{transform:translateX(0)}to{transform:translateX(672px)}}.rv1{animation:rv1 0.25s steps(1) 1.06s backwards}
+@keyframes rv2{from{transform:translateX(0)}to{transform:translateX(252px)}}.rv2{animation:rv2 0.56s steps(16) 1.51s backwards}
+@keyframes rv3{from{transform:translateX(0)}to{transform:translateX(600px)}}.rv3{animation:rv3 0.25s steps(1) 2.42s backwards}
+@keyframes rv4{from{transform:translateX(0)}to{transform:translateX(238px)}}.rv4{animation:rv4 0.53s steps(15) 2.88s backwards}
+@keyframes rv5{from{transform:translateX(0)}to{transform:translateX(397px)}}.rv5{animation:rv5 0.25s steps(1) 3.75s backwards}
+  .caret{animation:pulse 1s steps(2) infinite}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  .spin{animation:spin linear infinite;transform-box:view-box;transform-origin:0 0}
+  .rev{animation-direction:reverse}
+  .tw{animation:pulse 3.5s ease-in-out infinite;opacity:.5}
+
+</style>
+<defs>
+  <linearGradient id="gCard" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101A29"/><stop offset=".55" stop-color="#0B121C"/><stop offset="1" stop-color="#0F1E33"/>
+  </linearGradient>
+  <radialGradient id="gGlow" cx=".85" cy=".1" r=".7">
+    <stop offset="0" stop-color="#4A90E2" stop-opacity=".22"/><stop offset="1" stop-color="#4A90E2" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gGlow2" cx=".1" cy="1" r=".6">
+    <stop offset="0" stop-color="#ABCDEF" stop-opacity=".10"/><stop offset="1" stop-color="#ABCDEF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="gRing" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ABCDEF"/><stop offset="1" stop-color="#4A90E2"/>
+  </linearGradient>
+  <linearGradient id="gScan" x1="0" x2="1">
+    <stop offset="0" stop-color="#ABCDEF" stop-opacity="0"/><stop offset=".5" stop-color="#ABCDEF" stop-opacity=".18"/><stop offset="1" stop-color="#ABCDEF" stop-opacity="0"/>
+  </linearGradient>
+<radialGradient id="gMono"><stop offset="0" stop-color="#4A90E2"/><stop offset="1" stop-color="#4A90E2" stop-opacity="0"/></radialGradient><clipPath id="tc"><rect x="58" y="118" width="896" height="384"/></clipPath><clipPath id="hc"><rect x="1" y="1" width="1598" height="558" rx="28"/></clipPath></defs>
+<g clip-path="url(#hc)">
+  <rect width="1600" height="560" fill="#0B121C"/>
+  <rect width="1600" height="560" fill="url(#gGlow)"/>
+  <rect width="1600" height="560" fill="url(#gGlow2)"/>
+  <g opacity=".5"><circle cx="397" cy="211" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="794" cy="422" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="1191" cy="73" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/><circle cx="1588" cy="284" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:2.4s"/><circle cx="385" cy="495" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:3.0s"/><circle cx="782" cy="146" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:3.6s"/><circle cx="1179" cy="357" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:0.0s"/><circle cx="1576" cy="8" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="373" cy="219" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="770" cy="430" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/><circle cx="1167" cy="81" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:2.4s"/><circle cx="1564" cy="292" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:3.0s"/><circle cx="361" cy="503" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:3.6s"/><circle cx="758" cy="154" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:0.0s"/><circle cx="1155" cy="365" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="1552" cy="16" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="349" cy="227" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/><circle cx="746" cy="438" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:2.4s"/><circle cx="1143" cy="89" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:3.0s"/><circle cx="1540" cy="300" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:3.6s"/><circle cx="337" cy="511" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:0.0s"/><circle cx="734" cy="162" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="1131" cy="373" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="1528" cy="24" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/><circle cx="325" cy="235" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:2.4s"/><circle cx="722" cy="446" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:3.0s"/><circle cx="1119" cy="97" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:3.6s"/><circle cx="1516" cy="308" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:0.0s"/><circle cx="313" cy="519" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="710" cy="170" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="1107" cy="381" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/><circle cx="1504" cy="32" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:2.4s"/><circle cx="301" cy="243" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:3.0s"/><circle cx="698" cy="454" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:3.6s"/><circle cx="1095" cy="105" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:0.0s"/><circle cx="1492" cy="316" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="289" cy="527" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="686" cy="178" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/><circle cx="1083" cy="389" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:2.4s"/><circle cx="1480" cy="40" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:3.0s"/><circle cx="277" cy="251" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:3.6s"/><circle cx="674" cy="462" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:0.0s"/><circle cx="1071" cy="113" r="1.6" fill="#ABCDEF" class="tw" style="animation-delay:0.6s"/><circle cx="1468" cy="324" r="2.2" fill="#ABCDEF" class="tw" style="animation-delay:1.2s"/><circle cx="265" cy="535" r="1.0" fill="#ABCDEF" class="tw" style="animation-delay:1.8s"/></g>
+</g>
+<rect x="1" y="1" width="1598" height="558" rx="28" fill="none" stroke="#22364F" stroke-width="2"/>
+
+<!-- terminal -->
+<rect x="56" y="64" width="900" height="440" rx="20" fill="#0A111C" stroke="#22364F" stroke-width="2"/>
+<path d="M76 64 h860 a20 20 0 0 1 20 20 v32 h-900 v-32 a20 20 0 0 1 20 -20z" fill="#15233A"/>
+<line x1="56" y1="116" x2="956" y2="116" stroke="#22364F" stroke-width="2"/>
+<circle cx="88" cy="90" r="8" fill="#3A4D66"/><circle cx="114" cy="90" r="8" fill="#3A4D66"/><circle cx="140" cy="90" r="8" fill="#4A90E2"/>
+<text class="m" x="506" y="96" font-size="17" fill="#8C9BB0" text-anchor="middle">cesar@bolivar: ~/portafolio — zsh</text>
+<g clip-path="url(#tc)"><text class="m" x="96" y="196" font-size="24"><tspan fill="#4A90E2">$</tspan>&#160;<tspan fill="#F5F8FC" font-weight="400">whoami</tspan></text><rect class="rv0" x="92" y="168" width="150" height="40" fill="#0A111C" transform="translate(150 0)"/><text class="m" x="96" y="242" font-size="24"><tspan fill="#8C9BB0">→</tspan>&#160;<tspan fill="#ABCDEF" font-weight="600">Cesar Bolivar</tspan><tspan dx="14" fill="#8C9BB0">·</tspan><tspan dx="14" fill="#8C9BB0">Desarrollador Full Stack</tspan></text><rect class="rv1" x="92" y="214" width="672" height="40" fill="#0A111C" transform="translate(672 0)"/><text class="m" x="96" y="288" font-size="24"><tspan fill="#4A90E2">$</tspan>&#160;<tspan fill="#F5F8FC" font-weight="400">cat stack.txt</tspan></text><rect class="rv2" x="92" y="260" width="252" height="40" fill="#0A111C" transform="translate(252 0)"/><text class="m" x="96" y="334" font-size="24"><tspan fill="#8C9BB0">→</tspan>&#160;<tspan fill="#ABCDEF" font-weight="600">Django · Next.js · React · TypeScript</tspan></text><rect class="rv3" x="92" y="306" width="600" height="40" fill="#0A111C" transform="translate(600 0)"/><text class="m" x="96" y="380" font-size="24"><tspan fill="#4A90E2">$</tspan>&#160;<tspan fill="#F5F8FC" font-weight="400">status --now</tspan></text><rect class="rv4" x="92" y="352" width="238" height="40" fill="#0A111C" transform="translate(238 0)"/><text class="m" x="96" y="426" font-size="24"><tspan fill="#ABCDEF" class="pulse">●</tspan>&#160;<tspan fill="#ABCDEF" font-weight="600">Abierto a oportunidades</tspan></text><rect class="rv5" x="92" y="398" width="397" height="40" fill="#0A111C" transform="translate(397 0)"/><text class="m" x="96" y="472" font-size="24" fill="#4A90E2">$ <tspan class="caret">▍</tspan></text></g>
+
+
+<g transform="translate(1236 300)">
+  <circle r="190" fill="none" stroke="#22364F" stroke-dasharray="2 10"/>
+  <circle r="140" fill="none" stroke="#22364F"/>
+  <g class="spin" style="animation-duration:22s"><circle cx="190" cy="0" r="7" fill="#ABCDEF"/><circle cx="-190" cy="0" r="4" fill="#4A90E2"/></g>
+  <g class="spin rev" style="animation-duration:14s"><circle cx="0" cy="-140" r="6" fill="#4A90E2"/><circle cx="99" cy="99" r="3.5" fill="#ABCDEF"/></g>
+  <circle r="98" fill="url(#gMono)" opacity=".18" class="pulse"/>
+  <polygon points="0,-92 80,-46 80,46 0,92 -80,46 -80,-46" fill="#15233A" stroke="url(#gRing)" stroke-width="3"/>
+  <text class="s" x="0" y="22" font-size="64" font-weight="800" fill="#F5F8FC" text-anchor="middle" letter-spacing="-2">CB</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8C9BB0">
+    <text x="150" y="-150">&lt;/&gt;</text><text x="-210" y="150">{ }</text><text x="160" y="170">SQL</text><text x="-200" y="-120">API</text>
+  </g>
+</g>
+<text class="m" x="1236" y="536" font-size="16" fill="#8C9BB0" text-anchor="middle" letter-spacing="3">BARRANQUILLA · CO</text>
+</svg>

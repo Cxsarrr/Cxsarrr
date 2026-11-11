@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="110" viewBox="0 0 1600 110">
+<style>
+  .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .fade{animation:fade .9s ease backwards}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .ln{animation:grow 1.4s cubic-bezier(.2,.8,.2,1) backwards;transform-origin:center;transform-box:fill-box} @keyframes grow{from{transform:scaleX(0)}}
+</style>
+<line class="ln" x1="80" y1="55" x2="560" y2="55" stroke="url(#gL)" stroke-width="2"/>
+<line class="ln" x1="1040" y1="55" x2="1520" y2="55" stroke="url(#gR)" stroke-width="2"/>
+<defs><linearGradient id="gL"><stop offset="0" stop-color="#4A90E2" stop-opacity="0"/><stop offset="1" stop-color="#4A90E2"/></linearGradient>
+<linearGradient id="gR"><stop offset="0" stop-color="#4A90E2"/><stop offset="1" stop-color="#4A90E2" stop-opacity="0"/></linearGradient></defs>
+<text class="m" x="800" y="40" font-size="16" fill="#4A90E2" text-anchor="middle" letter-spacing="5">01 · LO QUE CONSTRUYO</text>
+<text class="s" x="800" y="80" font-size="38" font-weight="800" fill="#F5F8FC" text-anchor="middle" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Proyectos destacados</text>
+</svg>

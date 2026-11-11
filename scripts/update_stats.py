@@ -459,8 +459,11 @@ def main():
     print(f"Total {s['total']} · racha actual {s['cur']} ({s['cur_r']}) · más larga {s['best']} ({s['best_r']})")
     os.makedirs("assets", exist_ok=True)
     import xml.etree.ElementTree as ET
-    for name, svg in (("header.svg", build_header()), ("github-stats.svg", build_stats(s)),
-                      ("spent-my-time.svg", build_spent(s))):
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import cards
+    files = {"github-stats.svg": build_stats(s), "spent-my-time.svg": build_spent(s)}
+    files.update(cards.build_all())
+    for name, svg in files.items():
         ET.fromstring(svg)  # valida XML
         with open(os.path.join("assets", name), "w", encoding="utf-8") as f:
             f.write(svg)
