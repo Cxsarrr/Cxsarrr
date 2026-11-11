@@ -114,10 +114,8 @@ def build_hero(s):
   <text x="68" y="214" font-size="118" font-weight="800" letter-spacing="-4" fill="url(#gName)">Cesar</text>
   <text x="68" y="330" font-size="118" font-weight="800" letter-spacing="-4" fill="url(#gName)">Bolivar<tspan fill="{SKY}" class="blink">.</tspan></text>
   <text x="72" y="392" font-size="27" fill="{MUTED}">Desarrollador <tspan fill="{TEXT}" font-weight="700">Full Stack</tspan> — de la interfaz a la base de datos.</text>
-  <rect x="72" y="424" width="200" height="48" rx="24" fill="url(#gBtn)"/>
-  <text x="172" y="455" font-size="18" font-weight="700" fill="{BASE}" text-anchor="middle">cesarbolivar.site ↗</text>
-  <rect x="288" y="424" width="176" height="48" rx="24" fill="none" stroke="{LINE}" stroke-width="1.5"/>
-  <text x="376" y="455" font-size="18" font-weight="600" fill="{TEXT}" text-anchor="middle">netbio.site ↗</text>
+  <rect x="72" y="424" width="276" height="48" rx="24" fill="url(#gBtn)"/>
+  <text x="210" y="455" font-size="18" font-weight="700" fill="{BASE}" text-anchor="middle">Visita mi portafolio ↗</text>
 </g>
 
 {tile(1004, 24, 572, 220, 0.15, aurora=[("aS", 520, 40, 220)], cid="tB")}
@@ -145,13 +143,20 @@ def build_hero(s):
 </g>
 
 {tile(24, 520, 620, 236, 0.6, aurora=[("aB", 80, 240, 240)], cid="tE")}
-  {label(64, 572, "AHORA CONSTRUYENDO")}
-  <text x="64" y="636" font-size="40" font-weight="800" fill="{TEXT}">🔗 NetBio</text>
-  <text x="64" y="680" font-size="20" fill="{MUTED}">Enlaces, tarjetas vCard, QR y captura</text>
-  <text x="64" y="708" font-size="20" fill="{MUTED}">de clientes en un solo lugar.</text>
-  <g transform="translate(468 600)">
-    <rect width="132" height="132" rx="20" fill="{TILE2}" stroke="{LINE}"/>
-    {''.join(f'<rect x="{16 + (i%6)*17}" y="{16 + (i//6)*17}" width="14" height="14" rx="3" fill="{ICE if (i*5 + i//4) % 3 else LEVELS[1]}"/>' for i in range(36))}
+  {label(64, 572, "MI FORMA DE TRABAJAR")}
+  <text x="64" y="624" font-size="19" fill="{MUTED}"><tspan class="m" fill="{SKY}" font-weight="700">01</tspan>  Interfaces <tspan fill="{TEXT}" font-weight="700">claras</tspan> y accesibles</text>
+  <text x="64" y="666" font-size="19" fill="{MUTED}"><tspan class="m" fill="{SKY}" font-weight="700">02</tspan>  APIs <tspan fill="{TEXT}" font-weight="700">sólidas</tspan> y bien pensadas</text>
+  <text x="64" y="708" font-size="19" fill="{MUTED}"><tspan class="m" fill="{SKY}" font-weight="700">03</tspan>  Datos <tspan fill="{TEXT}" font-weight="700">bien modelados</tspan></text>
+  <g transform="translate(462 556)">
+    <line x1="66" y1="22" x2="66" y2="160" stroke="{LINE}" stroke-width="2" stroke-dasharray="4 6"/>
+    <circle cx="66" cy="22" r="5" fill="{SKY}"><animateMotion dur="2.4s" repeatCount="indefinite" path="M0 0 V138"/></circle>
+    <circle cx="66" cy="160" r="4" fill="{ICE}"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M0 0 V-138"/></circle>
+    <rect x="0" y="0" width="132" height="44" rx="14" fill="{TILE2}" stroke="{SKY}" stroke-opacity=".7"/>
+    <text x="66" y="29" font-size="16" font-weight="700" fill="{TEXT}" text-anchor="middle">Interfaz</text>
+    <rect x="0" y="68" width="132" height="44" rx="14" fill="{TILE2}" stroke="{BLUE}" stroke-opacity=".7"/>
+    <text x="66" y="97" font-size="16" font-weight="700" fill="{TEXT}" text-anchor="middle">API</text>
+    <rect x="0" y="136" width="132" height="44" rx="14" fill="{TILE2}" stroke="{VIOLET}" stroke-opacity=".7"/>
+    <text x="66" y="165" font-size="16" font-weight="700" fill="{TEXT}" text-anchor="middle">Base de datos</text>
   </g>
 </g>
 
