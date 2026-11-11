@@ -139,7 +139,7 @@ def build_hero(s):
   <circle class="ring" cx="1438" cy="398" r="48" fill="none" stroke="url(#gRing)" stroke-width="10" stroke-linecap="round"
     stroke-dasharray="{circ:.0f}" stroke-dashoffset="{circ*(1-frac):.0f}" transform="rotate(-90 1438 398)"/>
   <text x="1438" y="412" font-size="38" font-weight="800" fill="{TEXT}" text-anchor="middle">{s['cur']}</text>
-  <text x="1438" y="476" font-size="17" fill="{MUTED}" text-anchor="middle">{'día' if s['cur'] == 1 else 'días'} seguidos</text>
+  <text x="1438" y="476" font-size="17" fill="{MUTED}" text-anchor="middle">{'día seguido' if s['cur'] == 1 else 'días seguidos'}</text>
 </g>
 
 {tile(24, 520, 620, 236, 0.6, aurora=[("aB", 80, 240, 240)], cid="tE")}
