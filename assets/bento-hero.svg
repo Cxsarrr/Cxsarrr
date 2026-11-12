@@ -49,9 +49,9 @@
   <text class="m" x="1340" y="316" font-size="15" letter-spacing="3" fill="#8593AB">RACHA ACTUAL</text>
   <circle cx="1438" cy="398" r="48" fill="none" stroke="#121C2E" stroke-width="10"/>
   <circle class="ring" cx="1438" cy="398" r="48" fill="none" stroke="url(#gRing)" stroke-width="10" stroke-linecap="round"
-    stroke-dasharray="302" stroke-dashoffset="151" transform="rotate(-90 1438 398)"/>
-  <text x="1438" y="412" font-size="38" font-weight="800" fill="#F3F7FD" text-anchor="middle">1</text>
-  <text x="1438" y="476" font-size="17" fill="#8593AB" text-anchor="middle">día seguido</text>
+    stroke-dasharray="302" stroke-dashoffset="290" transform="rotate(-90 1438 398)"/>
+  <text x="1438" y="412" font-size="38" font-weight="800" fill="#F3F7FD" text-anchor="middle">0</text>
+  <text x="1438" y="476" font-size="17" fill="#8593AB" text-anchor="middle">días seguidos</text>
 </g>
 
 <clipPath id="tE"><rect x="24" y="520" width="620" height="236" rx="28"/></clipPath><g class="in" style="animation-delay:0.60s"><rect x="24" y="520" width="620" height="236" rx="28" fill="#0C1322"/><g clip-path="url(#tE)"><circle class="drift" cx="104" cy="760" r="240" fill="url(#aB)"/></g><rect x="24.75" y="520.75" width="618.5" height="234.5" rx="27.5" fill="none" stroke="url(#gEdge)" stroke-width="1.5"/>
